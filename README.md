@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sandhya Chinthamani from Tirupati, Andhra Pradesh currently living in <b>Bangalore, Karnataka"</b>. <br><br>- 🔭 I have my work experience as an <b>ML data, Associate for Amazon</b> and as a <b>Quality Analyst for Classklap</b>.<br>- 📚 I'm currently working on <b>JavaScript</b> Projects while learning <b>React</b> and <b>Express</b>.<br>- ⚡ In my free time I do wool knitting and watch movies.</p>
+<p align="left">I'm Sandhya Chinthamani from Tirupati, Andhra Pradesh currently living in <b>Bangalore, Karnataka"</b>. <br><br>- 🔭 I have my work experience as an <b>ML data, Associate for Amazon</b> and as a <b>Quality Analyst for Classklap</b>.<br><br>- 📚 I'm currently working on <b>JavaScript</b> Projects while learning <b>React</b> and <b>Express</b>.<br><br>- ⚡ In my free time I do wool knitting and watch movies.</p>
 
 ###
 
